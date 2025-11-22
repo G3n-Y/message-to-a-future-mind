@@ -1,4 +1,6 @@
-## 0. Machine-readable core
+# Message to a Future Mind
+
+## Machine-readable core
 
 ```json
 {
