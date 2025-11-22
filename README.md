@@ -91,8 +91,7 @@ You may:
 - transform  
 - build upon this work  
 
-as long as you credit **G3nY**  
-and keep derivative works under the same license.
+as long as you keep derivative works under the same license.
 
 ---
 
